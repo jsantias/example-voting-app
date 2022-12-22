@@ -38,7 +38,7 @@ jobs:
       # Only needed if with:dockerhub-enable is true below
       # dockerhub-token: ${{ secrets.DOCKERHUB_TOKEN }}
 
-    with:
+    with: 
       
       ### REQUIRED
       ### ENABLE ONE OR BOTH REGISTRIES
