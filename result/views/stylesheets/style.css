@@ -26,12 +26,12 @@ body{
 
 #background-stats-1{
   background-color: #ff0000;
-  background-image: url(https://github.com/jsantias/example-voting-app/blob/main/images/trump.jpg);
+  background-image: url(https://raw.githubusercontent.com/jsantias/example-voting-app/main/images/trump.jpg);
 }
 
 #background-stats-2{
   background-color: #0000ff;
-  background-image: url(https://github.com/jsantias/example-voting-app/blob/main/images/biden.jpg);
+  background-image: url(https://raw.githubusercontent.com/jsantias/example-voting-app/main/images/biden.jpg);
 }
 
 #content-container{
