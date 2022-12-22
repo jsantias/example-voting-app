@@ -89,12 +89,12 @@ body{
 }
 
 #choice .choice.biden{
-  color: #00cbca;
+  color: #0000ff;
   float: right;
 }
 
 #choice .choice.trump{
-  color: #2196f3;
+  color: #ff0000;
   float: left;
 }
 #background-stats{
